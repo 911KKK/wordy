@@ -1,2 +1,3 @@
 # TextFree
 An open source application to send SMS messages through GSM-dongle
+This project consists of a free messaging software for call centers as it is desperately required by every industry of any scale for their call centers. As sending email is efficient but due to problems like spam or no internet connection it’s better to send some necessary information like address etc. through SMS so that the user feels no problems in collecting useful information. As it is free messaging software, now the company don’t need to pay extra money to company providers for the services of sending messages to the user. 
